@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="stm32F446_Nucleo_LED_Project_Makefile" targetName="stm32F446_Nucleo_LED_Project_Makefile.elf" />
+      <config projectName="stm32F446_Nucleo_LED_Project_Makefile" targetName="CMSIS" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-STM32" CONFIG_NAME="Debug" TOOLCHAIN_NAME="STM32" GENERATION_OPTIONS="-DCMAKE_TOOLCHAIN_FILE=stm32f4xx.cmake" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="983e123a-1932-42f8-82c1-5ea50121f3e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.mxproject" beforeDir="false" afterPath="$PROJECT_DIR$/.mxproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inc/boot.h" beforeDir="false" afterPath="$PROJECT_DIR$/Inc/boot.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/boot.c" beforeDir="false" afterPath="$PROJECT_DIR$/Src/boot.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/led.c" beforeDir="false" afterPath="$PROJECT_DIR$/Src/led.c" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug-stm32/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug-STM32" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1585511916">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="5" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Makefile" value="1" />
+          <entry key="c" value="11" />
+          <entry key="cmake" value="3" />
+          <entry key="gdb" value="1" />
+          <entry key="h" value="1" />
+          <entry key="hex" value="1" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="4" />
+          <entry key="ObjectiveC" value="12" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Scratch" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Makefile" value="2" />
+          <entry key="c" value="1213" />
+          <entry key="cmake" value="5" />
+          <entry key="h" value="3" />
+          <entry key="txt" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="35" />
+          <entry key="ObjectiveC" value="1216" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.cidr.testingFrameworks.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="stm32F446_Nucleo_LED_Project_Makefile" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Src/boot.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-934">
+              <caret line="209" column="73" selection-start-line="209" selection-start-column="73" selection-end-line="209" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Inc/boot.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Src/led.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2025">
+              <caret line="135" column="54" selection-start-line="135" selection-start-column="54" selection-end-line="135" selection-end-column="54" />
+              <folding>
+                <element signature="e#81#107#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>g_uint16_msg_cmd_rx_id</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/stm32f4xx.cmake" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Inc/boot.h" />
+        <option value="$PROJECT_DIR$/Src/led.c" />
+        <option value="$PROJECT_DIR$/Src/boot.c" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="256" />
+    <option name="y" value="119" />
+    <option name="width" value="1586" />
+    <option name="height" value="961" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="stm32F446_Nucleo_LED_Project_Makefile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stm32F446_Nucleo_LED_Project_Makefile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stm32F446_Nucleo_LED_Project_Makefile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stm32F446_Nucleo_LED_Project_Makefile" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stm32F446_Nucleo_LED_Project_Makefile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stm32F446_Nucleo_LED_Project_Makefile" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug-stm32" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stm32F446_Nucleo_LED_Project_Makefile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stm32F446_Nucleo_LED_Project_Makefile" type="462c0819:PsiDirectoryNode" />
+              <item name="Inc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stm32F446_Nucleo_LED_Project_Makefile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stm32F446_Nucleo_LED_Project_Makefile" type="462c0819:PsiDirectoryNode" />
+              <item name="Src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CMake" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/stm32f4xx.cmake" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.C/C++" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="OpenOCD Download &amp; Run.stm32f4">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug-STM32" RUN_TARGET_PROJECT_NAME="stm32F446_Nucleo_LED_Project_Makefile" RUN_TARGET_NAME="stm32F446_Nucleo_LED_Project_Makefile.elf" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CMSIS" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="stm32F446_Nucleo_LED_Project_Makefile" TARGET_NAME="CMSIS" CONFIG_NAME="Debug-STM32">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stm32F446_Nucleo_LED_Project_Makefile.elf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="stm32F446_Nucleo_LED_Project_Makefile" TARGET_NAME="stm32F446_Nucleo_LED_Project_Makefile.elf" CONFIG_NAME="Debug-STM32" RUN_TARGET_PROJECT_NAME="stm32F446_Nucleo_LED_Project_Makefile" RUN_TARGET_NAME="stm32F446_Nucleo_LED_Project_Makefile.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration xmlns:elmot-ocd="https://github.com/elmot/clion-embedded-arm" default="true" type="elmot.embedded.openocd.conf.type" factoryName="elmot.embedded.openocd.conf.factory" singleton="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="stm32F446_Nucleo_LED_Project_Makefile" TARGET_NAME="stm32F446_Nucleo_LED_Project_Makefile.elf" CONFIG_NAME="Debug-STM32" RUN_TARGET_PROJECT_NAME="stm32F446_Nucleo_LED_Project_Makefile" RUN_TARGET_NAME="stm32F446_Nucleo_LED_Project_Makefile.elf" elmot-ocd:gdb-port="3333" elmot-ocd:telnet-port="4444" elmot-ocd:board-config="board/st_nucleo_f4.cfg" elmot-ocd:reset-type="INIT" elmot-ocd:download-type="ALWAYS">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration xmlns:elmot-ocd="https://github.com/elmot/clion-embedded-arm" name="stm32f4" type="elmot.embedded.openocd.conf.type" factoryName="elmot.embedded.openocd.conf.factory" singleton="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="stm32F446_Nucleo_LED_Project_Makefile" TARGET_NAME="stm32F446_Nucleo_LED_Project_Makefile.elf" CONFIG_NAME="Debug-STM32" RUN_TARGET_PROJECT_NAME="stm32F446_Nucleo_LED_Project_Makefile" RUN_TARGET_NAME="stm32F446_Nucleo_LED_Project_Makefile.elf" elmot-ocd:gdb-port="3333" elmot-ocd:telnet-port="4444" elmot-ocd:board-config="board/st_nucleo_f4.cfg" elmot-ocd:reset-type="INIT" elmot-ocd:download-type="ALWAYS">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.CMSIS" />
+      <item itemvalue="Application.stm32F446_Nucleo_LED_Project_Makefile.elf" />
+      <item itemvalue="OpenOCD Download &amp; Run.stm32f4" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="983e123a-1932-42f8-82c1-5ea50121f3e1" name="Default Changelist" comment="" />
+      <created>1539536804475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539536804475</updated>
+      <workItem from="1539536808283" duration="515000" />
+      <workItem from="1539631335196" duration="749000" />
+      <workItem from="1539632140229" duration="4897000" />
+      <workItem from="1539637081042" duration="172000" />
+      <workItem from="1539637273847" duration="47000" />
+      <workItem from="1539637379539" duration="275000" />
+      <workItem from="1539637674750" duration="38000" />
+      <workItem from="1539637732426" duration="926000" />
+      <workItem from="1539720795031" duration="449000" />
+      <workItem from="1539721276566" duration="5154000" />
+      <workItem from="1539726615401" duration="138000" />
+      <workItem from="1539732673695" duration="114000" />
+      <workItem from="1539887679847" duration="1803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15277000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49770993" visible="true" weight="0.1936912" />
+      <window_info id="Structure" order="1" sideWeight="0.50229007" side_tool="true" weight="0.34864417" />
+      <window_info id="Favorites" order="2" sideWeight="0.50229007" side_tool="true" weight="0.34864417" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32864866" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32756758" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4440433" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32901832" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32972974" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.28324324" />
+      <window_info anchor="bottom" id="CMake" order="13" weight="0.3383915" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32982844" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Src/stm32f4xx_hal_msp.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Src/stm32f4xx_it.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch..txt" />
+    <entry file="file://$APPLICATION_HOME_DIR$/bin/cmake/linux/share/cmake-3.12/Modules/CMakeDetermineSystem.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/stm32F446_Nucleo_LED_Project_Makefile.hex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13033" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/command.gdb" />
+    <entry file="file://$PROJECT_DIR$/stm32f4xx.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Src/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inc/boot.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Src/led.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="135" column="54" selection-start-line="135" selection-start-column="54" selection-end-line="135" selection-end-column="54" />
+          <folding>
+            <element signature="e#81#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Src/boot.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-934">
+          <caret line="209" column="73" selection-start-line="209" selection-start-column="73" selection-end-line="209" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

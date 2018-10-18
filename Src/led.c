@@ -20,10 +20,10 @@ uint8_t* LED_CMD(uint8_t nb_args, ARG_t* pt_args)
   uint32_t l_period = 0;
    
   /* The LED_CMD can accept up to 4 args :
-     arg n° 0 -> cmd name,
-     arg n° 1 -> led identification,
-     arg n° 3 -> status,
-     arg n° 4 -> blinking period */
+     arg nï¿½ 0 -> cmd name,
+     arg nï¿½ 1 -> led identification,
+     arg nï¿½ 3 -> status,
+     arg nï¿½ 4 -> blinking period */
   if (nb_args > 4)
     {
       l_pt_result = (uint8_t*)"nb args error";
@@ -31,9 +31,9 @@ uint8_t* LED_CMD(uint8_t nb_args, ARG_t* pt_args)
     }
    
   /* First arg about the LED identification */
-  l_led = strtoul((char*)pt_args[1].pt_arg, 
-                  NULL, 
-                  10);
+  l_led = (uint8_t) strtoul((char*)pt_args[1].pt_arg,
+                            NULL,
+                            10);
    
   /* An error is raised if the LED identification is not correct */
   if  ( (l_led < 1 ) || (l_led > 2) )
@@ -43,9 +43,9 @@ uint8_t* LED_CMD(uint8_t nb_args, ARG_t* pt_args)
     }
    
   /* Second arg about the LED state */
-  l_etat = strtoul((char*)pt_args[2].pt_arg,
-                   NULL,
-                   10);
+  l_etat = (uint8_t) strtoul((char*)pt_args[2].pt_arg,
+                             NULL,
+                             10);
    
   /* An error is raised if the LED status is not correct :
      0 -> off

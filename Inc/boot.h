@@ -13,7 +13,7 @@ typedef struct
   uint16_t len;
 } ARG_t;
 
-typedef uint8_t* (*Pt_Func_t)(uint8_t, ARG_t*);
+typedef uint8_t* (*PT_FUNC_CMD)(uint8_t, ARG_t*);
 
 /* Constantes ----------------------------------------------------------------*/
 
